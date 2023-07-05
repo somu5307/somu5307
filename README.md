@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @somu5307 Somendra Munagala
-- 👀 I’m interested in MERN Stack,Blockchain development.
+- 👀 I’m interested in Blockchain development.
 - 🌱 I’m currently learning blockchain technology.
 - 📫 somumunagala5307@gmail.com
 Familiar with Java,Python, JavaScript, Solidity, Python, Numpy, Pandas and Matplotlib.
